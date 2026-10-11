@@ -1,0 +1,16 @@
+{
+  "name": "hawsh-khalifa",
+  "description": "Hawsh Khalifa plugins for Claude: Director's Eyes cinematic image, video and voice generation.",
+  "owner": {
+    "name": "Khalifa",
+    "url": "https://hawsh-khalifa.com"
+  },
+  "plugins": [
+    {
+      "name": "director-eyes",
+      "source": ".",
+      "description": "Director's Eyes: cinematic image, video and voice generation on your Hawsh Khalifa account, with prompt skills and episode/ad/cast/shot workflows.",
+      "category": "creative"
+    }
+  ]
+}

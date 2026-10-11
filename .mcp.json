@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "director": {
+      "type": "http",
+      "url": "https://hawsh-khalifa.com/mcp"
+    }
+  }
+}
