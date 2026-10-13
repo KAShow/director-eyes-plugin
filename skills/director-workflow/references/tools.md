@@ -36,7 +36,7 @@
 ## الطاقم (مجانية)
 | الأداة | وش تسوي |
 |---|---|
-| `director_cast_save` | ينشئ/يعدّل شخصية: `name`, `images` (≤3)، `description` (≤400)، `voice {dialect}` أو `{engine, voice_id}`، `voice_sample`. **بدون consent** — العارض يعرض زر الإذن. |
+| `director_cast_save` | ينشئ/يعدّل شخصية: `name`, `images` (≤3؛ الأفضل ورقة «وجه وجسم» واحدة بـ `angle:"sheet"`)، `description` (≤400)، `voice {dialect}` أو `{engine, voice_id}`، `voice_sample`. **بدون consent** — العارض يعرض زر الإذن. |
 | `director_cast_delete` | يحذف شخصية — بطلب صريح بس (صور المكتبة تبقى). |
 
 ## المكتبة والعرض والانتظار (مجانية)
